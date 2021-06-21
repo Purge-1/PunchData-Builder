@@ -1,0 +1,7 @@
+C:\Users\RK\Desktop\punch data\PunchData-Builder\bin\Debug\PunchData-Builder.exe.config
+C:\Users\RK\Desktop\punch data\PunchData-Builder\bin\Debug\PunchData-Builder.exe
+C:\Users\RK\Desktop\punch data\PunchData-Builder\bin\Debug\PunchData-Builder.pdb
+C:\Users\RK\Desktop\punch data\PunchData-Builder\obj\Debug\PunchData-Builder.csprojAssemblyReference.cache
+C:\Users\RK\Desktop\punch data\PunchData-Builder\obj\Debug\PunchData-Builder.csproj.CoreCompileInputs.cache
+C:\Users\RK\Desktop\punch data\PunchData-Builder\obj\Debug\PunchData-Builder.exe
+C:\Users\RK\Desktop\punch data\PunchData-Builder\obj\Debug\PunchData-Builder.pdb
